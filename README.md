@@ -1,2 +1,2 @@
-# NetologiaYcheba
-Диплом
+# UED47_BorisovaPolina
+HW01_BorisovaPolina
